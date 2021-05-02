@@ -1,6 +1,6 @@
 <h1 align="center">cry-lang</h1>
 
-Just one word "cry". The algo translates the code line by line into ASCII codes.
+Just one word "cry". The algo translates it line by line into ASCII codes and prints the output.
 
 <h2>Usage</h2>
 
